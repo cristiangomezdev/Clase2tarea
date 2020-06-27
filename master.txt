@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 commit desde master
+=======
+1
+2
+este es test
+>>>>>>> test
